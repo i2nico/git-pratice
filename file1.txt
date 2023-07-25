@@ -1,4 +1,4 @@
 Hello from Vim
 Lets see this through
-	Hello from Romania! - Bianca
-
+Hello from Romania! - Bianca
+Hello from Germany
