@@ -2,3 +2,6 @@ Hello from Vim
 Lets see this through
 	Hello from Romania! - Bianca
 
+Hello Nico
+Shruthi here 
+
